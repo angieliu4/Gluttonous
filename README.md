@@ -2,7 +2,7 @@
 
 ### *There's cheese in that house...somewhere. You know it, you can smell it, and, as a rat, you need to get it. The question is: how?*
 
-![LOGO]()
+![LOGO](https://github.com/angieliu4/lowpolyrat/blob/main/images/LOGO.png?raw=true)
 
 ---
 
