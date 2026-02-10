@@ -10,6 +10,11 @@
 
 A low-poly, 3D game featuring a rat (the player), puzzles, environmental hazards, and a single objective: get the cheese. Pay attention to the scent markings to locate it! Players must avoid both a cat and a human carefully guarding that yellow triangle. The rat must get past locked doors, water spills, and mouse traps. There are mouse holes around the house to act as safe passageways between rooms or as hiding spots.
 
+#### *IN-GAME IMAGES*
+![LivingroomHall](https://github.com/angieliu4/lowpolyrat/blob/main/images/assets/ingame/hall.png?raw=true)
+![Pablo](https://github.com/angieliu4/lowpolyrat/blob/main/images/assets/ingame/patroller.png?raw=true)
+![Sky](https://github.com/angieliu4/lowpolyrat/blob/main/images/assets/ingame/sky.png?raw=true)
+
 #### *ROUGH MOCK-UP*
 
 ![RATGAME](https://github.com/angieliu4/lowpolyrat/blob/main/images/ratgame.png?raw=true)
