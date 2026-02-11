@@ -2,7 +2,7 @@
 
 ### *A rat's job is to eat.*
 
-![LOGO]()
+![LOGO](https://github.com/angieliu4/Gluttonous/blob/main/images/gluttonouslogo.png?raw=true)
 
 ---
 
