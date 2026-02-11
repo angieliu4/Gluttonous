@@ -1,6 +1,6 @@
-# *LOW POLY RAT*
+# *Gluttonous*
 
-### *There's cheese in that house...somewhere. You know it, you can smell it, and, as a rat, you need to get it. The question is: how?*
+### *A rat's job is to eat.*
 
 ![LOGO](https://github.com/angieliu4/lowpolyrat/blob/main/images/LOGO.png?raw=true)
 
@@ -8,10 +8,10 @@
 
 ##### *GAME CONTENT*
 
-A low-poly, 3D game featuring a rat (the player), puzzles, environmental hazards, and a single objective: get the cheese. Pay attention to the scent markings to locate it! Players must avoid both a cat and a human carefully guarding that yellow triangle. The rat must get past locked doors, water spills, and mouse traps. There are mouse holes around the house to act as safe passageways between rooms or as hiding spots.
+A 3D horror game featuring the Rat (player), the Father, the Mother, the Children, the Cat, and a house full of food going to waste. Players must search a two story house for any scraps, whether is on the table, in the bed, or on the floor. The Rat must get hazards, mouse traps, and the patrolling family. There are mouse holes around the house to act as safe passageways between rooms or as hiding spots. Victory is only achived when the Rat's hunger is satisfied.
 
 #### *SOURCE CODE*
-[Low-Poly Rat SRC](https://drive.google.com/file/d/1f7_3DYT1vsJ69DLKO0Yoe0RLSrEFgoNX/view?usp=sharing)
+[Gluttonous SRC](https://drive.google.com/file/d/1f7_3DYT1vsJ69DLKO0Yoe0RLSrEFgoNX/view?usp=sharing)
 
 #### *ARTS AND VISUAL DESIGN*
 ![LivingroomHall](https://github.com/angieliu4/lowpolyrat/blob/main/images/assets/ingame/hall.png?raw=true)
