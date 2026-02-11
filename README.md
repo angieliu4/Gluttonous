@@ -2,7 +2,7 @@
 
 ### *A rat's job is to eat.*
 
-![LOGO](https://github.com/angieliu4/lowpolyrat/blob/main/images/LOGO.png?raw=true)
+![LOGO]()
 
 ---
 
