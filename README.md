@@ -13,12 +13,10 @@ A 3D horror game occuring in the town of Gnawed Creek. Originally named Woodlum 
 [Gluttonous SRC](https://drive.google.com/file/d/1f7_3DYT1vsJ69DLKO0Yoe0RLSrEFgoNX/view?usp=sharing)
 
 #### *ARTS AND VISUAL DESIGN*
-![LivingroomHall](https://github.com/angieliu4/lowpolyrat/blob/main/images/assets/ingame/hall.png?raw=true)
-Interior designed in Unity, furniture and textures are from the Unity Asset store. This is the living room hallway. Textures can be applied to the walls and the floor.
-![Pablo](https://github.com/angieliu4/lowpolyrat/blob/main/images/assets/ingame/patroller.png?raw=true)
-This man is named Pablo. He patrols the halls trying to catch the rat. He is imported from the Unity Asset store.
-![Sky](https://github.com/angieliu4/lowpolyrat/blob/main/images/assets/ingame/sky.png?raw=true)
-This is generally the environment of the game. It's a skybox of a morning sky. It is imported from the Unity Asset store and can be used by dragging it into the scene window.
+![Alter](https://github.com/angieliu4/Gluttonous/blob/main/images/assets/alter.png?raw=true)
+The alter in the middle of the map which is the main area in the game. The tree was created using the tree maker in Unity, a glowing effect was created with point lights and the Unity Post Processing package (for bloom). The grass and flowers are textures from the Unity Asset Store. Lights were used on the flowers to create a glowing effect. The terrain was made using Unity's terrain maker.
+![Houseinthehills](https://github.com/angieliu4/lowpolyrat/blob/main/images/assets/ingame/patroller.png?raw=true)
+The mysterious house in the hills (house is not finished yet).
 
 #### *ROUGH MOCK-UP*
 
