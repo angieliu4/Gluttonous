@@ -15,7 +15,7 @@ A 3D horror game occuring in the town of Gnawed Creek. Originally named Woodlum 
 #### *ARTS AND VISUAL DESIGN*
 ![Alter](https://github.com/angieliu4/Gluttonous/blob/main/images/assets/alter.png?raw=true)
 The alter in the middle of the map which is the main area in the game. The tree was created using the tree maker in Unity, a glowing effect was created with point lights and the Unity Post Processing package (for bloom). The grass and flowers are textures from the Unity Asset Store. Lights were used on the flowers to create a glowing effect. The terrain was made using Unity's terrain maker.
-![Houseinthehills](https://github.com/angieliu4/lowpolyrat/blob/main/images/assets/ingame/patroller.png?raw=true)
+![Houseinthehills](https://github.com/angieliu4/Gluttonous/blob/main/images/assets/houseinhills.png?raw=true)
 The mysterious house in the hills (house is not finished yet).
 
 #### *ROUGH MOCK-UP*
